@@ -1,0 +1,46 @@
+/*Selector {
+    Property:
+}*/
+
+* {
+    text-align: right;
+}
+
+body {
+    background-image: url(backgroundimage.jpg.lnk);
+    background-size: cover;
+}
+p {
+    color: #AA4139;
+    text-align: center;
+    border: 5px solid rgba(255, 176, 170, 0.5);
+    cursor: pointer;
+
+}
+
+p {
+    line-height: 50px;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 100%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+P {
+    color: green;
+}
+img {
+    float: right;
+}
+footer{
+    clear: both;
+    text-align: center;
+}
+
+
+li {
+    list-style: none;
+    display: inline-block;
+}
+
